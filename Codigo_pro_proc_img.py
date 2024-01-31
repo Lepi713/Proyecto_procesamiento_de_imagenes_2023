@@ -4,7 +4,7 @@ Created on Mon Nov 13 18:17:28 2023
 
 @author: Lepi
 """
-
+# se importan las librerias para trabajar, OpenCV, numpy y os para trabajo en el sistema
 import cv2
 import numpy as np
 import os
